@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CRTConjoint"]
+	path = CRTConjoint
+	url = https://github.com/daewoongham97/crtconjoint
+	shallow = true
+	registered = true
